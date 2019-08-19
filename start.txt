@@ -1,0 +1,21 @@
+모두 기본 셋팅
+
+d:dev/hybrid/tools
+d:dev/hybrid/android/sources
+
+설치 완료시 새 프로젝트 만들기
+
+~~activity : 스마트폰 화면을 뜻한다고 보면 됨
+
+empty activity 선택
+name : 앱설치할때 나오는 이름
+	Hello
+com.tje.Hello
+save location : d/dev/hybrid/android/sources/Hello
+language : kotlin 아니고 java로
+	스위프트랑 코틀린이랑 비슷
+api 레벨
+하단의 체크박스
+this project will support instant apps : 설치하지 않고도 실행할수있는 앱
+체크하지 않음
+

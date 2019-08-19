@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+        <TextView
+            android:id="@+id/tv_add_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ID"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_add_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="ID를 입력하세요"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/tv_add_pw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PW"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_add_pw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="패스워드를 입력하세요"
+            android:inputType="textPassword" />
+
+
+        <TextView
+            android:id="@+id/tv_add_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NAME"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_add_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="이름을 입력하세요"
+            android:inputType="textPersonName" />
+
+
+        <TextView
+            android:id="@+id/tv_add_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AGE"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_add_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="나이를 입력하세요"
+            android:inputType="numberDecimal" />
+
+
+        <TextView
+            android:id="@+id/tv_add_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PHONE"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_add_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="연락처를 입력하세요"
+            android:inputType="textPhonetic" />
+
+
+        <TextView
+            android:id="@+id/tv_add_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADDRESS"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_add_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="주소를 입력하세요"
+            android:inputType="textPostalAddress" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_add_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="가입" />
+
+        <Button
+            android:id="@+id/btn_add_reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="초기화" />
+    </LinearLayout>
+
+</LinearLayout>

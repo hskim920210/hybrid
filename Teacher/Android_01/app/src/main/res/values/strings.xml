@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_01</string>
+    <string name="udpateTitleBtn">타이틀 변경 버튼</string>
+    <string name="toastTestBtn">Toast 테스트 버튼</string>
+    <string name="closeBtn">APP 종료</string>
+    <string name="visibilityBtn">Visibility Control</string>
+    <string name="titleTextView">타이틀</string>
+</resources>

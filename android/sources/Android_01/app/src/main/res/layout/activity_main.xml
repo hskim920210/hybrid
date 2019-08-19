@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+linear layout : 순차적으로 배치
+	필수항목 (required) 을 해야한다.
+	높이와 폭 필수
+	match_parent는 화면의 크기에 맞게
+
+orientation : 가로순으로 배치할지
+	세로순으로 할지
+	vertical, ...
+wrap_content : 내용에 맞게 줄인다
+design 탭에서 ui 구성하면
+이곳에서 태그의 속성들이 알아서 추가된다.
+
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="66dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/titleTextView" />
+
+    <Button
+        android:id="@+id/updateTitleBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/updateTitleBtn" />
+
+    <Button
+        android:id="@+id/toastTestBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/toastTestBtn" />
+
+    <Button
+        android:id="@+id/closeBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/closeBtn" />
+
+    <Button
+        android:id="@+id/visibilityBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/visibilityBtn" />
+
+</LinearLayout>
+

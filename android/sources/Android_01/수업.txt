@@ -1,0 +1,22 @@
+linear layout : 순차적으로 배치
+	필수항목 (required) 을 해야한다. 
+	높이와 폭 필수
+	match_parent는 화면의 크기에 맞게
+
+orientation : 가로순으로 배치할지
+	세로순으로 할지
+	vertical, ...
+wrap_content : 내용에 맞게 줄인다
+
+activity_main에서 수정한다.
+design 탭에서 ui 구성
+
+--------------------------------------
+MainActivity  클래스의
+R은 res폴더를 뜻하고 layout. 하면 layout 폴더에 접근
+그 내부의 activity_main.xml을 하기위해 
+ setContentView(R.layout.activity_main);
+
+android.widget 패키지에 있는 TextView, Button으로 변수를 만들 수 있다.
+이건 layout에서 드래그앤드롭으로 한 이름과 똑같이 사용.
+changeTitleBtn = findViewById() : 화면에 나온 모든것을 id로 찾아 접근가능
