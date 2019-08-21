@@ -1,140 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eef4c975-430b-414e-af48-634adbd5a428" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day_04/.idea/day_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_04/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_04/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/day_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_06/Location/app/src/main/res/drawable/nougat_36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/androidTest/java/com/tje/keepgoingboardreview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/java/com/tje/keepgoingboardreview/BoardReviewRecyclerViewAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/java/com/tje/keepgoingboardreview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/app/src/test/java/com/tje/keepgoingboardreview/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/KeepGoingBoardReview/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/androidTest/java/com/tje/networkapp/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/java/com/tje/networkapp/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/app/src/test/java/com/tje/networkapp/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkApp/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/androidTest/java/com/tje/networkappwithjson/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/java/com/tje/networkappwithjson/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/java/com/tje/networkappwithjson/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/java/com/tje/networkappwithjson/MemberRecyclerViewAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/layout/item_member.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/app/src/test/java/com/tje/networkappwithjson/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day_07/NetworkAppwithjson/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day_06/Location/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_06/Location/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day_06/Location/app/src/main/java/com/tje/location/GoogleRouteApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day_06/Location/app/src/main/java/com/tje/location/GoogleRouteApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day_06/Location/app/src/main/java/com/tje/location/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day_06/Location/app/src/main/java/com/tje/location/MainActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="eef4c975-430b-414e-af48-634adbd5a428" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +40,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_member.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
+            <state relative-caret-position="579">
               <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
             </state>
           </provider>
@@ -376,7 +243,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyApplication/app/src/main/res/layout/item_member.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
+        <state relative-caret-position="579">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
