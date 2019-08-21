@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText
+        android:id="@+id/et_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="서버에 전송할 메세지 ..."
+        android:inputType="textPersonName"/>
+
+    <Button
+        android:id="@+id/btn_send_get"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GET 방식 호출"/>
+    <Button
+        android:id="@+id/btn_send_post"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="POST 방식 호출"/>
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그인"/>
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그아웃"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tv_receive_msg"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="20sp"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

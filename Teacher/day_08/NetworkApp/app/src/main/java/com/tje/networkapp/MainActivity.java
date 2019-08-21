@@ -27,7 +27,7 @@ import java.util.StringTokenizer;
 public class MainActivity extends AppCompatActivity {
 
     private static final String HOST_NETWORK_PROTOCOL = "http://";
-    private static final String HOST_ADDRESS = "192.168.0.48:8080";
+    private static final String HOST_ADDRESS = "192.168.0.18:8080";
     private static final String HOST_APP_NAME = "/android";
 
     EditText et_msg;

@@ -185,6 +185,35 @@ public class HomeController {
 		return result;
 	}
 	
+	// 연습용 맵핑
+	@GetMapping("/practice")
+	@ResponseBody
+	public Object practice() {
+		System.out.println("practice 실행");	
+		Member member_1 = new Member("김헌승", "28", "010", "dr_2.jpg");
+		Member member_2 = new Member("김헌승1", "28", "0101", "dr_3.jpg");
+		Member member_3 = new Member("김헌승2", "28", "0102", "dr_4.jpg");
+		Member member_4 = new Member("김헌승3", "28", "0103", "dr_2.jpg");
+		Member member_5 = new Member("김헌승4", "28", "0104", "dr_3.jpg");
+		Member member_6 = new Member("김헌승5", "28", "0105", "dr_4.jpg");
+		Member member_7 = new Member("김헌승6", "28", "0106", "dr_2.jpg");
+		Member member_8 = new Member("김헌승7", "28", "0107", "dr_3.jpg");
+		Member member_9 = new Member("김헌승8", "28", "0108", "dr_4.jpg");
+		Member member_10 = new Member("김헌승9", "28", "0109", "dr_2.jpg");
+		ArrayList<Member> arrMember = new ArrayList<Member>();
+		arrMember.add(member_1);
+		arrMember.add(member_2);
+		arrMember.add(member_3);
+		arrMember.add(member_4);
+		arrMember.add(member_5);
+		arrMember.add(member_6);
+		arrMember.add(member_7);
+		arrMember.add(member_8);
+		arrMember.add(member_9);
+		arrMember.add(member_10);
+		return arrMember;
+	}
+	
 }
 
 
